@@ -1,6 +1,7 @@
 website_crawler.bat
 reddit_crawler.bat
 git_upload.bat
+zuordnung_codes.bat
 website_list.md
 aktive_promo.md
 zu_pruefen_promo.md
@@ -8,3 +9,5 @@ abgelaufen_promo.md
 persoenlich_eingeloest.md
 crawler_*.md
 manueller_abgleich.md
+manuell_geladen.md
+readme_sync.bat
