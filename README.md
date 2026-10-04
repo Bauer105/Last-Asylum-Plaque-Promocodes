@@ -17,6 +17,13 @@ _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 
 ---
 
+## 🟡 Unklarer Status (muss aufgrund widersprüchlicher Online-Angaben geprüft werden)
+
+| Code | Belohnung | Fundstelle / Hinweis | Hinzugefügt am |
+| :--- | :--- | :--- | :--- |
+
+---
+
 ## 🔴 Abgelaufene Codes (Nicht mehr testen)
 
 | Code | Event / Monat | Ablaufdatum |
