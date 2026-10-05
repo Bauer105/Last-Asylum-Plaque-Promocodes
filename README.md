@@ -11,7 +11,7 @@ Beispielsweise:
 - LAPJAP777 – Japan
 - LAAS777 – Asien
 
-Diese 3 sind noch einfach zu erkennen gewesen 😄.
+Diese 3 sind noch einfach zu erkennen gewesen 😄. <br>
 [Zu den Quellen der Geschenkcodes](#quellen)
 ## 🟢 Aktive Codes (Stand: Oktober 2026)
 
