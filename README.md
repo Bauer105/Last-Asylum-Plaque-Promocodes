@@ -75,7 +75,7 @@ _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 
 ### Quellen
 
-- Websiten
+- #### Websiten
 	- [UCNGame](https://ucngame.com/codes/last-asylum-codes/)
 	- [GamsGo](https://www.gamsgo.com/blog/last-asylum-plague-codes)
 	- [LDShop](https://www.ldshop.gg/blog/last-asylum-plague/last-asylum-latest-codes.html)
@@ -85,6 +85,6 @@ _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 	- [TOPUPlive](https://www.topuplive.com/news/last-asylum-plague-codes.html)
 	- [A Jack Of](https://lastasylumplague.ajackof.com/gift-codes/)
 	- [MrGuider](https://www.mrguider.org/codes/last-asylum-plague-codes/)
-- Reddit
+- #### Reddit
 	- [Reddit "LastAsylumPlaque"](reddit.com/r/LastAsylumPlague)
 	- [Reddit "redeemcodesmobile"](reddit.com/r/redeemcodesmobile)
