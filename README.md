@@ -4,10 +4,13 @@ Hier findest du alle aktuellen und abgelaufenen Geschenkcodes für unsere Allian
 #### Disclaimer
 
 Die Geschenkcodes enthalten auch internationale Geschenkcodes die nicht bei jedem Funktionieren. 
+
 Beispielsweise:
+
 - LAPKOR777 – Südkorea
 - LAPJAP777 – Japan
 - LAAS777 – Asien
+
 Diese 3 sind noch einfach zu erkennen gewesen 😄.
 ## 🟢 Aktive Codes (Stand: Oktober 2026)
 
