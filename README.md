@@ -86,5 +86,5 @@ _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 	- [A Jack Of](https://lastasylumplague.ajackof.com/gift-codes/)
 	- [MrGuider](https://www.mrguider.org/codes/last-asylum-plague-codes/)
 - #### Reddit
-	- [Reddit "LastAsylumPlaque"](reddit.com/r/LastAsylumPlague/)
-	- [Reddit "redeemcodesmobile"](https//:www.reddit.com/r/redeemcodesmobile/)
+	- [Reddit "LastAsylumPlaque"](https://www.reddit.com/r/LastAsylumPlague/)
+	- [Reddit "redeemcodesmobile"](https://www.reddit.com/r/redeemcodesmobile/)
