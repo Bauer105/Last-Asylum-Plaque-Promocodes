@@ -12,6 +12,7 @@ Beispielsweise:
 - LAAS777 – Asien
 
 Diese 3 sind noch einfach zu erkennen gewesen 😄.
+[Zu den Quellen der Geschenkcodes](#quellen)
 ## 🟢 Aktive Codes (Stand: Oktober 2026)
 
 | Code | Hinzugefügt am | zuletzt Verifiziert am |
@@ -71,3 +72,16 @@ _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 | `LAXMAS25` | 04.10.2026 |
 | `TWLAP666` | 05.10.2026 |
 | `TWLAP888` | 05.10.2026 |
+
+### Quellen
+
+- [UCNGame](https://ucngame.com/codes/last-asylum-codes/)
+- [GamsGo](https://www.gamsgo.com/blog/last-asylum-plague-codes)
+- [LDShop](https://www.ldshop.gg/blog/last-asylum-plague/last-asylum-latest-codes.html)
+- [LOOTBAR](https://lootbar.gg/blog/en/last-asylum-plague-redemption-codes-lb.html)
+- [BOOSTBOT](https://boostbot.org/blog/last-asylum-plague-gift-codes/)
+- [PACKSIFY](https://www.packsify.com/blogs/last-asylum-plague-codes)
+- [TOPUPlive](https://www.topuplive.com/news/last-asylum-plague-codes.html)
+- [A Jack Of](https://lastasylumplague.ajackof.com/gift-codes/)
+- [Reddit "LastAsylumPlaque"](reddit.com/r/LastAsylumPlague)
+- [Reddit "redeemcodesmobile"](reddit.com/r/redeemcodesmobile)
