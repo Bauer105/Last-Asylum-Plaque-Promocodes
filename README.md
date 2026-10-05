@@ -87,4 +87,4 @@ _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 	- [MrGuider](https://www.mrguider.org/codes/last-asylum-plague-codes/)
 - #### Reddit
 	- [Reddit "LastAsylumPlaque"](reddit.com/r/LastAsylumPlague/)
-	- [Reddit "redeemcodesmobile"](reddit.com/r/redeemcodesmobile/)
+	- [Reddit "redeemcodesmobile"](https//:www.reddit.com/r/redeemcodesmobile/)
