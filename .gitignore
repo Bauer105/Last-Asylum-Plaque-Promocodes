@@ -1,5 +1,5 @@
 website_crawler.bat
-reddit_crawler.bat
+reddit_*
 git_upload.bat
 zuordnung_codes.bat
 website_list.md
@@ -11,4 +11,3 @@ crawler_*.md
 manueller_abgleich.md
 manuell_geladen.md
 readme_sync.bat
-reddit_crawler_*.md
