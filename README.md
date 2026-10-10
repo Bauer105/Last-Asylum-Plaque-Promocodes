@@ -17,22 +17,22 @@ Diese 3 sind noch einfach zu erkennen gewesen 😄. <br>
 
 | Code           | Hinzugefügt am | zuletzt Verifiziert am |
 | :------------- | :------------- | :--------------------- |
-| **61HW4LA**    | 04.10.2026     | 05.10.2026             |
-| **LA15WPN4D**  | 04.10.2026     | 05.10.2026             |
-| **LA1OW9F7X**  | 04.10.2026     | 05.10.2026             |
-| **LA20WBZ9**   | 04.10.2026     | 05.10.2026             |
-| **LA25W8CM**   | 04.10.2026     | 05.10.2026             |
-| **LA30W7F2M**  | 04.10.2026     | 05.10.2026             |
-| **LAAS777**    | 04.10.2026     | 05.10.2026             |
-| **LACAFE26**   | 04.10.2026     | 05.10.2026             |
-| **LADCEX1223** | 04.10.2026     | 05.10.2026             |
-| **LAKR10K6L**  | 04.10.2026     | 05.10.2026             |
-| **LAKR12K7O**  | 04.10.2026     | 05.10.2026             |
-| **LAKR15K9A**  | 04.10.2026     | 05.10.2026             |
-| **LAMAU26**    | 04.10.2026     | 05.10.2026             |
-| **LAPJAP777**  | 04.10.2026     | 05.10.2026             |
-| **LAPKOR777**  | 04.10.2026     | 05.10.2026             |
-| WLTLAP         | 06.10.2026     | 06.10.2026             |
+| **61HW4LA**    | 04.10.2026     | 10.10.2026             |
+| **LA15WPN4D**  | 04.10.2026     | 10.10.2026             |
+| **LA1OW9F7X**  | 04.10.2026     | 10.10.2026             |
+| **LA20WBZ9**   | 04.10.2026     | 10.10.2026             |
+| **LA25W8CM**   | 04.10.2026     | 10.10.2026             |
+| **LA30W7F2M**  | 04.10.2026     | 10.10.2026             |
+| **LAAS777**    | 04.10.2026     | 10.10.2026             |
+| **LACAFE26**   | 04.10.2026     | 10.10.2026             |
+| **LADCEX1223** | 04.10.2026     | 10.10.2026             |
+| **LAHD26**     | 10.10.2026     | 10.10.2026             |
+| **LAKR10K6L**  | 04.10.2026     | 10.10.2026             |
+| **LAKR12K7O**  | 04.10.2026     | 10.10.2026             |
+| **LAKR15K9A**  | 04.10.2026     | 10.10.2026             |
+| **LAPJAP777**  | 04.10.2026     | 10.10.2026             |
+| **LAPKOR777**  | 04.10.2026     | 10.10.2026             |
+| **WLTLAP**     | 06.10.2026     | 10.10.2026             |
 
 _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 
@@ -63,9 +63,12 @@ _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 | `LAFD13GY` | 05.10.2026 |
 | `LAIOSLA` | 05.10.2026 |
 | `LAKQIXI26` | 05.10.2026 |
+| `LAMAU26` | 10.10.2026 |
 | `LANY2026` | 05.10.2026 |
 | `LAOKT26` | 05.10.2026 |
+| `LAPGPOFF` | 10.10.2026 |
 | `LAQIXI26` | 05.10.2026 |
+| `LASTASYLUMBR` | 10.10.2026 |
 | `LAU15CHG` | 05.10.2026 |
 | `LAVD26` | 05.10.2026 |
 | `LAWTD16F` | 04.10.2026 |
@@ -73,19 +76,3 @@ _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 | `LAXMAS25` | 04.10.2026 |
 | `TWLAP666` | 05.10.2026 |
 | `TWLAP888` | 05.10.2026 |
-
-### Quellen
-
-- #### Websiten
-	- [UCNGame](https://ucngame.com/codes/last-asylum-codes/)
-	- [GamsGo](https://www.gamsgo.com/blog/last-asylum-plague-codes)
-	- [LDShop](https://www.ldshop.gg/blog/last-asylum-plague/last-asylum-latest-codes.html)
-	- [LOOTBAR](https://lootbar.gg/blog/en/last-asylum-plague-redemption-codes-lb.html)
-	- [BOOSTBOT](https://boostbot.org/blog/last-asylum-plague-gift-codes/)
-	- [PACKSIFY](https://www.packsify.com/blogs/last-asylum-plague-codes)
-	- [TOPUPlive](https://www.topuplive.com/news/last-asylum-plague-codes.html)
-	- [A Jack Of](https://lastasylumplague.ajackof.com/gift-codes/)
-	- [MrGuider](https://www.mrguider.org/codes/last-asylum-plague-codes/)
-- #### Reddit
-	- [Reddit "LastAsylumPlaque"](https://www.reddit.com/r/LastAsylumPlague/)
-	- [Reddit "redeemcodesmobile"](https://www.reddit.com/r/redeemcodesmobile/)
