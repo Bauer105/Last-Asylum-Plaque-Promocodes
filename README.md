@@ -32,6 +32,8 @@ Diese 3 sind noch einfach zu erkennen gewesen 😄. <br>
 | **LAKR15K9A** | 04.10.2026 | 13.10.2026 |
 | **LAPJAP777** | 04.10.2026 | 13.10.2026 |
 | **LAPKOR777** | 04.10.2026 | 13.10.2026 |
+| **TWLAP666** | 13.10.2026 | 13.10.2026 |
+| **TWLAP888** | 13.10.2026 | 13.10.2026 |
 | **WLTLAP** | 06.10.2026 | 13.10.2026 |
 
 _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
@@ -46,10 +48,12 @@ _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 ---
 
 ## 🔴 Abgelaufene Codes (Nicht mehr testen)
+_Disclaimer: Die Aufgeführten Zeichenkombinationen werden als Blocker im Crawler genutzt._
 
 | Code | Entfernt aus Aktiv am |
 | :--- | :-------------------- |
 | `26CHOCO` | 04.10.2026 |
+| `37GAMES` | 13.10.2026 |
 | `LA10W9F7X` | 04.10.2026 |
 | `LA14EBRN` | 04.10.2026 |
 | `LA26ALLY` | 05.10.2026 |
@@ -78,5 +82,3 @@ _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 | `LAWTD16F` | 04.10.2026 |
 | `LAXMAS2025` | 05.10.2026 |
 | `LAXMAS25` | 04.10.2026 |
-| `TWLAP666` | 05.10.2026 |
-| `TWLAP888` | 05.10.2026 |
