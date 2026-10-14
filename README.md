@@ -82,3 +82,20 @@ _Disclaimer: Die Aufgeführten Zeichenkombinationen werden als Blocker im Crawle
 | `LAWTD16F` | 04.10.2026 |
 | `LAXMAS2025` | 05.10.2026 |
 | `LAXMAS25` | 04.10.2026 |
+
+### Quellen
+
+- #### Websiten
+	- [UCNGame](https://ucngame.com/codes/last-asylum-codes/)
+	- [GamsGo](https://www.gamsgo.com/blog/last-asylum-plague-codes)
+	- [LDShop](https://www.ldshop.gg/blog/last-asylum-plague/last-asylum-latest-codes.html)
+	- [LOOTBAR](https://lootbar.gg/blog/en/last-asylum-plague-redemption-codes-lb.html)
+	- [BOOSTBOT](https://boostbot.org/blog/last-asylum-plague-gift-codes/)
+	- [PACKSIFY](https://www.packsify.com/blogs/last-asylum-plague-codes)
+	- [TOPUPlive](https://www.topuplive.com/news/last-asylum-plague-codes.html)
+	- [A Jack Of](https://lastasylumplague.ajackof.com/gift-codes/)
+	- [MrGuider](https://www.mrguider.org/codes/last-asylum-plague-codes/)
+	- [LastAsylum](https://lastasylum.gg/en/codes)
+- #### Reddit
+	- [Reddit "LastAsylumPlaque"](https://www.reddit.com/r/LastAsylumPlague/)
+	- [Reddit "redeemcodesmobile"](https://www.reddit.com/r/redeemcodesmobile/)
