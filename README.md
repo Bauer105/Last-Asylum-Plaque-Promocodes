@@ -35,6 +35,8 @@ Diese 3 sind noch einfach zu erkennen gewesen 😄. <br>
 | **TWLAP666**   | 13.10.2026     | 13.10.2026             |
 | **TWLAP888**   | 13.10.2026     | 13.10.2026             |
 | **WLTLAP**     | 06.10.2026     | 13.10.2026             |
+| **LAGRAN26**   | 19.10.2026     | 19.10.2026             |
+| **LA26CAFE1**  | 19.10.2026     | 19.10.2026             |
 
 _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 
