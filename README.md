@@ -17,22 +17,22 @@ Diese 3 sind noch einfach zu erkennen gewesen 😄. <br>
 
 | Code | Hinzugefügt am | zuletzt Verifiziert am |
 | :--- | :------------- | :--------------------- |
-| **61HW4LA** | 04.10.2026 | 25.10.2026 |
-| **LA15WPN4D** | 04.10.2026 | 25.10.2026 |
-| **LA1OW9F7X** | 04.10.2026 | 25.10.2026 |
-| **LA20WBZ9** | 04.10.2026 | 25.10.2026 |
-| **LA25W8CM** | 04.10.2026 | 25.10.2026 |
-| **LA30W7F2M** | 04.10.2026 | 25.10.2026 |
-| **LAAS777** | 04.10.2026 | 25.10.2026 |
-| **LACAFE26** | 04.10.2026 | 25.10.2026 |
-| **LADCEX1223** | 04.10.2026 | 25.10.2026 |
-| **LAGRAN** | 25.10.2026 | 25.10.2026 |
-| **LAKR10K6L** | 04.10.2026 | 25.10.2026 |
-| **LAKR12K7O** | 04.10.2026 | 25.10.2026 |
-| **LAKR15K9A** | 04.10.2026 | 25.10.2026 |
-| **LAPJAP777** | 04.10.2026 | 25.10.2026 |
-| **LAPKOR777** | 04.10.2026 | 25.10.2026 |
-| **WLTLAP** | 06.10.2026 | 25.10.2026 |
+| **61HW4LA** | 04.10.2026 | 31.10.2026 |
+| **LA15WPN4D** | 04.10.2026 | 31.10.2026 |
+| **LA1OW9F7X** | 04.10.2026 | 31.10.2026 |
+| **LA20WBZ9** | 04.10.2026 | 31.10.2026 |
+| **LA25W8CM** | 04.10.2026 | 31.10.2026 |
+| **LA30W7F2M** | 04.10.2026 | 31.10.2026 |
+| **LAAS777** | 04.10.2026 | 31.10.2026 |
+| **LACAFE26** | 04.10.2026 | 31.10.2026 |
+| **LADCEX1223** | 04.10.2026 | 31.10.2026 |
+| **LAHAL26** | 31.10.2026 | 31.10.2026 |
+| **LAKR10K6L** | 04.10.2026 | 31.10.2026 |
+| **LAKR12K7O** | 04.10.2026 | 31.10.2026 |
+| **LAKR15K9A** | 04.10.2026 | 31.10.2026 |
+| **LAPJAP777** | 04.10.2026 | 31.10.2026 |
+| **LAPKOR777** | 04.10.2026 | 31.10.2026 |
+| **WLTLAP** | 06.10.2026 | 31.10.2026 |
 
 _Tipp: Codes sind case-sensitive (Groß-/Kleinschreibung beachten!)._
 
@@ -65,6 +65,7 @@ _Disclaimer: Die Aufgeführten Zeichenkombinationen werden als Blocker im Crawle
 | `LADOG26` | 05.10.2026 |
 | `LAEGG26` | 05.10.2026 |
 | `LAFD13GY` | 05.10.2026 |
+| `LAGRAN` | 31.10.2026 |
 | `LAHD26` | 25.10.2026 |
 | `LAIOSLA` | 05.10.2026 |
 | `LAKQIXI26` | 05.10.2026 |
@@ -100,4 +101,5 @@ _Disclaimer: Die Aufgeführten Zeichenkombinationen werden als Blocker im Crawle
 - #### Reddit
 	- [Reddit "LastAsylumPlaque"](https://www.reddit.com/r/LastAsylumPlague/)
 	- [Reddit "redeemcodesmobile"](https://www.reddit.com/r/redeemcodesmobile/)
+
 
